@@ -1,0 +1,17 @@
+Shortcuts for Linux operating system:
+
+Copy selected text to clipboard (copy/paste buffer): ctrl + c
+Paste from buffer: ctrl + v
+Cut selected text to buffer (selected text is deleted): ctrl + x
+Save current file in VSCode: ctrl + s
+Toggle block comment in VSCode: shift + alt + A
+Toggle line comment in VSCode: ctrl + /
+Move cursor from word to word right: alt + >
+Move cursor from word to word left: alt + <
+Select word right: shift + alt + >
+Select word left: shift + alt + <
+Select all contents: ctrl + A
+Select current line, including end of line character: ctrl + L
+Jump to start of line: ctrl + <
+Jump to end of line: ctrl + >
+Jump to beginning of current file: ctrl + ^

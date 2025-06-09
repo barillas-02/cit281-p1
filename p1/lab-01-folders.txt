@@ -1,0 +1,10 @@
+total 0
+-rw-r--r-- 1 barlizisabella05 barlizisabella05  0 Apr 11 11:37 lab-01-folders.txt
+drwxr-xr-x 1 barlizisabella05 barlizisabella05 36 Apr 11 11:34 p1
+drwxr-xr-x 1 barlizisabella05 barlizisabella05  0 Apr 11 11:32 p2
+drwxr-xr-x 1 barlizisabella05 barlizisabella05  0 Apr 11 11:32 p3
+drwxr-xr-x 1 barlizisabella05 barlizisabella05  0 Apr 11 11:33 p4
+drwxr-xr-x 1 barlizisabella05 barlizisabella05  0 Apr 11 11:33 p5
+drwxr-xr-x 1 barlizisabella05 barlizisabella05  0 Apr 11 11:33 p6
+drwxr-xr-x 1 barlizisabella05 barlizisabella05  0 Apr 11 11:33 p7
+drwxr-xr-x 1 barlizisabella05 barlizisabella05  0 Apr 11 11:33 p8
